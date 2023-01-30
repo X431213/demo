@@ -1,4 +1,4 @@
-package org.example.design_pattern.demo1;
+package org.example.design_pattern.obser.demo1;
 
 
 import java.util.Observable;
