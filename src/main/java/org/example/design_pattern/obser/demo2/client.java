@@ -8,8 +8,8 @@ public class client {
         ThePublic thePublic = new ThePublic();
         thePublic.addObserver(user);
         thePublic.addObserver(user1);
-        thePublic.updateContent("b");
+        thePublic.updateContent("bn");
         thePublic.deleteObserver(user);
-        thePublic.updateContent("b");
+        thePublic.updateContent("bm");
     }
 }
