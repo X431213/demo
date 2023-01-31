@@ -10,6 +10,6 @@ public class client {
         thePublic.addObserver(user1);
         thePublic.updateContent("bs");
         thePublic.deleteObserver(user);
-        thePublic.updateContent("bm");
+        thePublic.updateContent("bs");
     }
 }
